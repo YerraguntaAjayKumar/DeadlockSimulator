@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Streamlit cache
+.streamlit/
+
+# Executables/binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
