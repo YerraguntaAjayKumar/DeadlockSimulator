@@ -1,8 +1,8 @@
-# app_refactored.py
+# app.py
 # ------------------
-# REFACTORED: Resource Control Focus
+# Deadlock Simulator Streamlit application
 # 
-# Key Changes:
+# Key Features:
 # 1. Resource Allocation as ground truth
 # 2. Request Handler with Banker's Safety Check (Trial Allocation)
 # 3. Dynamic Need Matrix (Need = Max - Allocation)

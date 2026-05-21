@@ -14,7 +14,6 @@ This project includes a Python Streamlit UI and C++ modules for Banker's Algorit
 ## Repository Structure
 
 - `app.py` - Streamlit application entry point
-- `app_refactored.py` - Refactored or alternative Streamlit app version
 - `utils.py` - Helper functions for input parsing and subprocess management
 - `requirements.txt` - Python dependencies
 - `cpp/` - C++ source files and compile script
